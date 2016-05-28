@@ -2,5 +2,7 @@ chane working directory
 git init
 make changes 
 git add file-name
-git commit
+git commit -m 'comment message'
+git status
+git push
 11111111111

@@ -5,4 +5,5 @@ git add file-name
 git commit -m 'comment message'
 git status
 git push
-11111111111
+git branch
+git log

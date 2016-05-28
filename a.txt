@@ -1,0 +1,6 @@
+chane working directory
+git init
+make changes 
+git add file-name
+git commit
+11111111111
